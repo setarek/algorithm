@@ -1,0 +1,13 @@
+__pycache__
+.env
+.venv
+env/
+vend/
+*.tmp
+*.log
+*.swp
+*.swo
+.vscode/
+vendor/
+go.work
+go.sum
